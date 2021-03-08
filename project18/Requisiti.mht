@@ -1,0 +1,817 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01CEAAF9.FA1805A0"
+
+Questo documento è una pagina Web in file unico, nota anche come archivio Web. La visualizzazione di questo messaggio indica che il browser o l'editor in uso non supporta gli archivi Web. Scaricare un browser che supporti gli archivi Web, come Windows® Internet Explorer®.
+
+------=_NextPart_01CEAAF9.FA1805A0
+Content-Location: file:///C:/30CB32E9/Requisiti.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 14">
+<meta name=3DOriginator content=3D"Microsoft Word 14">
+<link rel=3DFile-List href=3D"Requisiti_file/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Alfa</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Alfa</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>168</o:TotalTime>
+  <o:Created>2013-09-06T10:09:00Z</o:Created>
+  <o:LastSaved>2013-09-06T10:09:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>790</o:Words>
+  <o:Characters>4505</o:Characters>
+  <o:Lines>37</o:Lines>
+  <o:Paragraphs>10</o:Paragraphs>
+  <o:CharactersWithSpaces>5285</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DthemeData href=3D"Requisiti_file/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"Requisiti_file/colorschememapping.xm=
+l">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>14</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>IT</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"true"
+  DefSemiHidden=3D"true" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"267">
+  <w:LsdException Locked=3D"false" Priority=3D"0" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" QFormat=3D"true" Name=3D=
+"caption"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
+ Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"59" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Placeho=
+lder Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Revisio=
+n"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" QFormat=3D"true" Name=3D=
+"TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 2.0cm 2.0cm 2.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabella normale";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DIT style=3D'tab-interval:35.4pt'>
+
+<div class=3DWordSection1>
+
+<p class=3DMsoNormalCxSpFirst style=3D'line-height:normal'><b style=3D'mso-=
+bidi-font-weight:
+normal'><span style=3D'font-size:14.0pt;mso-bidi-font-size:10.0pt;font-fami=
+ly:
+"Times New Roman","serif"'>Gestione ordini<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>Il sistema tratta ordini rela=
+tivi
+a clienti e fornitori. Classi e interfacce si trovano nel package ordini, g=
+li
+esempi nel package di default .<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><b style=3D'mso=
+-bidi-font-weight:
+normal'><span style=3D'font-size:12.0pt;mso-bidi-font-size:10.0pt;font-fami=
+ly:
+"Times New Roman","serif"'>R1 Anagrafica<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>Il metodo <span class=3DSpell=
+E><b
+style=3D'mso-bidi-font-weight:normal'>readAnagrafica</b></span> legge dal
+parametro, che è il nome di un file testuale, le informazioni sui prodotti,=
+ i
+clienti e i fornitori, organizzate in righe precedute dai caratteri P, C o =
+F.
+Una riga di prodotto come “P,divano2pT,200” contiene il codice del prodotto=
+ (<span
+class=3DSpellE>String</span>) e il prezzo (<span class=3DSpellE>int</span>)=
+. Una
+riga di cliente come “<span class=3DSpellE>C,Bianchi</span>” contiene il co=
+dice
+del cliente (<span class=3DSpellE>String</span>). Una riga di fornitore, co=
+me “F,BetaMobili,divano2pP,poltronaP”
+contiene il codice del fornitore e i codici dei prodotti trattati dal
+fornitore. Il metodo legge il file in una struttura dati interna da definir=
+e.
+La struttura del file è sintatticamente corretta però possono esserci dei
+codici duplicati o indefiniti; in tal caso, la riga errata è ignorata e la
+lettura prosegue. Ad es. nel file <span class=3DSpellE>AnagraficaE</span>
+l’ultima riga P è ignorata perché il codice divano2pT è già stato definito
+nella prima riga P e l’ultima riga F è ignorata perché mensola non è un cod=
+ice
+di prodotto.<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>I metodi <span class=3DSpellE=
+><b
+style=3D'mso-bidi-font-weight:normal'>getCodiciProdotti</b></span>, <span
+class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>getCodiciClienti</b=
+></span>
+e <span class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>getCodiciFo=
+rnitori</b></span>
+danno la lista dei codici dei prodotti, clienti e fornitori ordinati
+alfabeticamente. Il metodo <span class=3DSpellE><b style=3D'mso-bidi-font-w=
+eight:
+normal'>getCodiciProdottiFornitore</b></span> (<span class=3DSpellE>String<=
+/span>
+codice) dà la lista dei codici dei prodotti del fornitore ordinati
+alfabeticamente. Il fornitore è identificato dal suo codice; se non esiste =
+un
+fornitore con quel codice il metodo lancia un’eccezione di tipo <span
+class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>CodiceInesistente</=
+b></span>.
+<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><b style=3D'mso=
+-bidi-font-weight:
+normal'><span style=3D'font-size:12.0pt;mso-bidi-font-size:10.0pt;font-fami=
+ly:
+"Times New Roman","serif"'>Nota sul controllo dei codici<o:p></o:p></span><=
+/b></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>Se un codice passato come
+parametro ad un metodo non corrisponde a nessun oggetto del tipo richiesto =
+- un
+prodotto, un cliente, un fornitore, un ordine cliente, un ordine fornitore =
+- il
+metodo lancia un’eccezione di tipo <span class=3DSpellE><b style=3D'mso-bid=
+i-font-weight:
+normal'>CodiceInesistente</b></span>.<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><b style=3D'mso=
+-bidi-font-weight:
+normal'><span style=3D'font-size:12.0pt;mso-bidi-font-size:10.0pt;font-fami=
+ly:
+"Times New Roman","serif"'>R2 Ordini clienti<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>Il metodo <span class=3DSpell=
+E>String</span>
+<span class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>newOrdineClie=
+nte</b></span>
+(<span class=3DSpellE>String</span> <span class=3DSpellE>codiceCliente</spa=
+n>, <span
+class=3DSpellE>String</span> <span class=3DSpellE>codiceProdotto</span>, <s=
+pan
+class=3DSpellE>int</span> <span class=3DSpellE>nPezzi</span>) genera un ord=
+ine
+cliente dati i codici del cliente e del prodotto e il n. di pezzi e gli dà =
+un
+codice (<span class=3DSpellE>String</span>) formato da “oc” seguito da un n.
+intero progressivo a partire da 1. Il codice del primo ordine cliente inser=
+ito
+è quindi oc1, del secondo è oc2. Il metodo dà il codice come risultato.<o:p=
+></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>Un ordine cliente si può legg=
+ere
+mediante il metodo <span class=3DSpellE>OrdineClienteI</span> <span class=
+=3DSpellE><b
+style=3D'mso-bidi-font-weight:normal'>getOrdineCliente</b></span> (<span
+class=3DSpellE>String</span> <span class=3DSpellE>codiceOrdineCliente</span=
+>);
+l’ordine cliente è visto tramite l’interfaccia <span class=3DSpellE><b
+style=3D'mso-bidi-font-weight:normal'>OrdineClienteI</b></span> che consent=
+e di
+leggere i codici ordine, cliente e prodotto, il n. di pezzi, l’importo e lo
+stato. <i style=3D'mso-bidi-font-style:normal'>L’importo</i> è pari al prez=
+zo del
+prodotto * il n. di pezzi. Lo stato vale “inserito” (<span class=3DSpellE>S=
+tring</span>)
+quando l’ordine è inserito; poi è modificato da altri metodi.<o:p></o:p></s=
+pan></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>Il metodo <span class=3DSpell=
+E>ArrayList</span>&lt;<span
+class=3DSpellE>OrdineClienteI</span>&gt;<span class=3DSpellE><b style=3D'ms=
+o-bidi-font-weight:
+normal'>getOrdiniCliente</b></span> (<span class=3DSpellE>String</span> <sp=
+an
+class=3DSpellE>codiceCliente</span>) dà la lista degli ordini effettuati dal
+cliente ordinati per importi decrescenti; a parità d’importo vale l’ordine
+alfabetico dei codici degli ordini. Gli ordini sono visti tramite l’interfa=
+ccia
+<span class=3DSpellE>OrdineClienteI</span> che permette di leggere i codici
+ordine, cliente e prodotto, il n. di pezzi, l’importo e lo stato.<o:p></o:p=
+></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><b style=3D'mso=
+-bidi-font-weight:
+normal'><span style=3D'font-size:12.0pt;mso-bidi-font-size:10.0pt;font-fami=
+ly:
+"Times New Roman","serif"'>R3 Ordini fornitori<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>Il metodo “<span class=3DSpel=
+lE>String</span>
+<span class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>newOrdineForn=
+itore</b></span>
+(<span class=3DSpellE>String</span> <span class=3DSpellE>codiceFornitore</s=
+pan>, <span
+class=3DSpellE>String</span>... <span class=3DSpellE>codiciOC</span>) <span
+class=3DSpellE>throws</span> <span class=3DSpellE>CodiceInesistente</span>,=
+ <span
+class=3DSpellE>OrdineInaccettabile</span>”<span style=3D'mso-spacerun:yes'> 
+</span>genera un ordine fornitore dati i codici del fornitore e degli ordini
+clienti da accorpare nell’ordine fornitore. Un fornitore riceve infatti un
+ordine relativo a uno o più ordini cliente. Il metodo assegna all’ordine un
+codice (<span class=3DSpellE>String</span>) formato da “of” seguito da un n.
+intero progressivo a partire da 1. Il codice del primo ordine cliente inser=
+ito
+è quindi of1, del secondo è of2. Il metodo dà il codice come risultato. Il
+metodo controlla che gli ordini clienti si trovino nello stato inserito e c=
+he i
+prodotti richiesti dagli ordini clienti siano effettivamente forniti dal
+fornitore: se non è così genera l’eccezione <span class=3DSpellE><b
+style=3D'mso-bidi-font-weight:normal'>OrdineInaccettabile</b></span>. Inolt=
+re il
+metodo cambia lo stato degli ordini clienti in “trattato” e scrive “inserit=
+o”
+nello stato dell’ordine fornitore.<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>Un ordine fornitore si può
+leggere mediante il metodo <span class=3DSpellE>OrdineFornitoreI</span> <sp=
+an
+class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>getOrdineFornitore<=
+/b></span>
+(<span class=3DSpellE>String</span> <span class=3DSpellE>codiceOrdineFornit=
+ore</span>);
+l’ordine fornitore è visto tramite l’interfaccia <span class=3DSpellE><b
+style=3D'mso-bidi-font-weight:normal'>OrdineFornitoreI</b></span> che conse=
+nte di
+leggere i codici dell’ordine fornitore, il codice del fornitore, la lista d=
+ei
+codici degli ordini clienti (ordinata alfabeticamente), l’importo e lo stat=
+o<i
+style=3D'mso-bidi-font-style:normal'>. L’importo</i> è dato dalla somma deg=
+li
+importi degli ordini clienti.<o:p></o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'>Il metodo <span class=3DSpell=
+E>void</span>
+<span class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>consegnaOrdin=
+eFornitore</b></span>
+(<span class=3DSpellE>String</span> <span class=3DSpellE>codiceOrdineFornit=
+ore</span>)
+controlla che lo stato dell’ordine fornitore sia “inserito”; altrimenti gen=
+era
+l’eccezione <span class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>C=
+onsegnaInaccettabile</b></span>.
+In caso affermativo<b style=3D'mso-bidi-font-weight:normal'> </b>scrive “co=
+nsegnato”
+nello stato dell’ordine fornitore e negli stati degli ordini clienti. <o:p>=
+</o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><span style=3D'=
+font-size:
+10.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'line-height:normal'><b style=3D'mso=
+-bidi-font-weight:
+normal'><span style=3D'font-size:12.0pt;mso-bidi-font-size:10.0pt;font-fami=
+ly:
+"Times New Roman","serif"'>R4 Statistiche<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormalCxSpLast style=3D'line-height:normal'><span style=3D'fo=
+nt-size:
+10.0pt;font-family:"Times New Roman","serif"'>I metodi <span class=3DSpellE=
+>ArrayList</span>&lt;<span
+class=3DSpellE>InfoI</span>&gt; <span class=3DSpellE><b style=3D'mso-bidi-f=
+ont-weight:
+normal'>statisticaProdotti</b></span>(),<span class=3DSpellE>ArrayList</spa=
+n>&lt;<span
+class=3DSpellE>InfoI</span>&gt; <span class=3DSpellE><b style=3D'mso-bidi-f=
+ont-weight:
+normal'>statisticaClienti</b></span>(),<span class=3DSpellE>ArrayList</span=
+>&lt;<span
+class=3DSpellE>InfoI</span>&gt;<span style=3D'mso-spacerun:yes'>  </span><s=
+pan
+class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>statisticaFornitori=
+</b></span>()
+danno le liste ordinate dei prodotti, clienti e fornitori visti attraverso
+l’interfaccia <span class=3DSpellE>InfoI</span>. L’ordinamento è per valori
+decrescenti e a parità di valori vale l’ordine alfabetico dei codici. Il va=
+lore
+di un prodotto equivale alla somma del n. dei pezzi ordinati dagli ordini
+clienti relativi al prodotto, quello di un cliente equivale alla somma degli
+importi degli ordini che ha effettuato, quello di un fornitore equivale alla
+somma degli importi degli ordini che ha ricevuto.<o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01CEAAF9.FA1805A0
+Content-Location: file:///C:/30CB32E9/Requisiti_file/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy07DMBBF
+90j8g+UtSpyyQAgl6YLHjseifMDImSQWydiyp1X790zSVEKoIBZsLNkz954743K9Hwe1w5icp0qv
+8kIrJOsbR12l3zdP2a1WiYEaGDxhpQ+Y9Lq+vCg3h4BJiZpSpXvmcGdMsj2OkHIfkKTS+jgCyzV2
+JoD9gA7NdVHcGOuJkTjjyUPX5QO2sB1YPe7l+Zgk4pC0uj82TqxKQwiDs8CS1Oyo+UbJFkIuyrkn
+9S6kK4mhzVnCVPkZsOheZTXRNajeIPILjBLDsAyJX89nIBkt5r87nons29ZZbLzdjrKOfDZezE7B
+/xRg9T/oE9PMf1t/AgAA//8DAFBLAwQUAAYACAAAACEApdan58AAAAA2AQAACwAAAF9yZWxzLy5y
+ZWxzhI/PasMwDIfvhb2D0X1R0sMYJXYvpZBDL6N9AOEof2giG9sb69tPxwYKuwiEpO/3qT3+rov5
+4ZTnIBaaqgbD4kM/y2jhdj2/f4LJhaSnJQhbeHCGo3vbtV+8UNGjPM0xG6VItjCVEg+I2U+8Uq5C
+ZNHJENJKRds0YiR/p5FxX9cfmJ4Z4DZM0/UWUtc3YK6PqMn/s8MwzJ5PwX+vLOVFBG43lExp5GKh
+qC/jU72QqGWq1B7Qtbj51v0BAAD//wMAUEsDBBQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAdGhl
+bWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbAzMTQrDIBBA4X2hd5DZN2O7KEVissuuu/YAQ5waQceg
+0p/b1+XjgzfO3xTVm0sNWSycBw2KZc0uiLfwfCynG6jaSBzFLGzhxxXm6XgYybSNE99JyHNRfSPV
+kIWttd0g1rUr1SHvLN1euSRqPYtHV+jT9yniResrJgoCOP0BAAD//wMAUEsDBBQABgAIAAAAIQCj
+6vbhqQYAAKYbAAAWAAAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbOxZTW8bRRi+I/EfRntvYyd2Gkd1
+qtixG0jTRrFb1ON4d7w7zezOamac1DfUHpGQEAVxoBI3Dgio1Epcyq8JFEGR+hd4Z2Z3vROvSdJG
+UEFzaL2zz/v9Me/MXr12P2bokAhJedL26pdrHiKJzwOahG3v9rB/ac1DUuEkwIwnpO1NifSubbz/
+3lW8riISEwT0iVzHbS9SKl1fWpI+LGN5mackgXdjLmKs4FGES4HAR8A3ZkvLtdrqUoxp4qEEx8B2
+CDQooOjWeEx94m3k7HsMZCRK6gWfiYFmTjKaEjY4qGuEnMouE+gQs7YHkgJ+NCT3lYcYlgpetL2a
++fOWNq4u4fWMiKkFtCW6vvnL6DKC4GDZyBThqBBa7zdaV7YK/gbA1Dyu1+t1e/WCnwFg3wdLrS5l
+no3+Wr2T8yyB7M953t1as9Zw8SX+K3M6tzqdTrOV6WKZGpD92ZjDr9VWG5vLDt6ALL45h290Nrvd
+VQdvQBa/OofvX2mtNly8AUWMJgdzaB3Qfj/jXkDGnG1XwtcAvlbL4DMUZEORXVrEmCdqUa7F+B4X
+fQBoIMOKJkhNUzLGPuRxF8cjQbEWgNcJLr2xS76cW9KykPQFTVXb+zDFUBMzfq+ef//q+VN0/ODZ
+8YOfjh8+PH7wo2XkUG3jJCxTvfz2sz8ff4z+ePrNy0dfVONlGf/rD5/88vPn1UAon5k6L7588tuz
+Jy+++vT37x5VwDcFHpXhQxoTiW6SI7TPYzDMeMXVnIzE+SiGEaZlis0klDjBWkoF/56KHPTNKWZZ
+dBw9OsT14B0B7aMKeH1yz1F4EImJohWSd6LYAe5yzjpcVHphR8squXk4ScJq4WJSxu1jfFglu4sT
+J769SQp9M09Lx/BuRBw19xhOFA5JQhTS7/gBIRXW3aXU8esu9QWXfKzQXYo6mFa6ZEhHTjbNiLZp
+DHGZVtkM8XZ8s3sHdTirsnqLHLpIqArMKpQfEua48TqeKBxXsRzimJUdfgOrqErJwVT4ZVxPKoh0
+SBhHvYBIWUVzS4C9paDvYOhYlWHfZdPYRQpFD6p43sCcl5Fb/KAb4Titwg5oEpWxH8gDSFGM9riq
+gu9yt0L0M8QBJwvDfYcSJ9ynd4PbNHRUmiWIfjMRFbG8TriTv4MpG2NiWg00dadXxzT5u8bNKHRu
+K+HiGje0yhdfP67Q+21t2Zuwe1XVzPaJRr0Id7I9d7kI6NvfnbfwJNkjUBDzW9S75vyuOXv/+ea8
+qJ4vviXPujA0aD2L2EHbjN3xwql7TBkbqCkjN6QZvCXsPUEfFjWdOXOS4hSWRvBTVzIIcHChwIYG
+Ca4+oioaRDiFob3uaSahzFiHEqVcwmHRLFfy1ngY/JU9ajb1IcR2DonVLg/s8opezs8aBRujVWgO
+tLmgFc3grMJWrmRMwbbXEVbXSp1ZWt2oZpqiI60wWbvYHMrB5YVpsFh4E4YaBKMQeHkVTv1aNBx2
+MCOB9ruNUR4WE4WLDJGMcECyGGm752NUN0HKc2XOEG2HTQZ9cDzFayVpLc32DaSdJUhlcY0F4vLo
+vUmU8gyeRQm4nSxHlpSLkyXoqO21mstND/k4bXtjOCfDzziFqEs9R2IWwnWTr4RN+1OL2VT5LJqt
+3DC3COpw9WH9Pmew0wdSIdUWlpFNDfMqSwGWaElW/+UmuPWiDKjoRmfTYmUNkuFf0wL86IaWjMfE
+V+Vgl1a07+xj1kr5RBExiIIjNGITsY8h/DpVwZ6ASrjuMB1BP8DdnPa2eeU256zoyjdiBmfXMUsj
+nLVbXaJ5JVu4aUiFDuappB7YVqm7Me78ppiSvyBTymn8PzNF7ydw+7AS6Aj4cDksMNKV0va4UBGH
+LpRG1O8LGBxM74BsgftdeA1JBVfU5n9BDvX/tuYsD1PWcIhU+zREgsJ+pCJByB60JZN9pzCrZ3uX
+ZckyRiajSurK1Ko9IoeEDXUPXNV7u4ciSHXTTbI2YHAn8899zipoFOohp1xvTicr9l5bA//05GOL
+GYxy+7AZaHL/FyoW48FsV7X0hjzfe8uG6BezMauRVwUIK20FrazsX1OFc261tmPNWbzczJWDKM5b
+DIvFQJTCHRLS/8D+R4XP7NcOvaEO+T70VgQfLzQzSBvI6kt28EC6QdrFEQxOdtEmk2ZlXZuNTtpr
++WZ9wZNuIfeEs7VmZ4n3OZ1dDGeuOKcWL9LZmYcdX9u1ha6GyJ4sUVga5wcZExjzoaz8JYuP7kGg
+t+CbwYQpaZIJvlMJDDP0wNQBFL+VaEg3/gIAAP//AwBQSwMEFAAGAAgAAAAhAA3RkJ+2AAAAGwEA
+ACcAAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFnZXIueG1sLnJlbHOEj00KwjAUhPeCdwhv
+b9O6EJEm3YjQrdQDhOQ1DTY/JFHs7Q2uLAguh2G+mWm7l53JE2My3jFoqhoIOumVcZrBbbjsjkBS
+Fk6J2TtksGCCjm837RVnkUsoTSYkUiguMZhyDidKk5zQilT5gK44o49W5CKjpkHIu9BI93V9oPGb
+AXzFJL1iEHvVABmWUJr/s/04GolnLx8WXf5RQXPZhQUoosbM4CObqkwEylu6usTfAAAA//8DAFBL
+AQItABQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAAAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBl
+c10ueG1sUEsBAi0AFAAGAAgAAAAhAKXWp+fAAAAANgEAAAsAAAAAAAAAAAAAAAAAMAEAAF9yZWxz
+Ly5yZWxzUEsBAi0AFAAGAAgAAAAhAGt5lhaDAAAAigAAABwAAAAAAAAAAAAAAAAAGQIAAHRoZW1l
+L3RoZW1lL3RoZW1lTWFuYWdlci54bWxQSwECLQAUAAYACAAAACEAo+r24akGAACmGwAAFgAAAAAA
+AAAAAAAAAADWAgAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbFBLAQItABQABgAIAAAAIQAN0ZCftgAA
+ABsBAAAnAAAAAAAAAAAAAAAAALMJAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFnZXIueG1s
+LnJlbHNQSwUGAAAAAAUABQBdAQAArgoAAAAA
+
+------=_NextPart_01CEAAF9.FA1805A0
+Content-Location: file:///C:/30CB32E9/Requisiti_file/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01CEAAF9.FA1805A0
+Content-Location: file:///C:/30CB32E9/Requisiti_file/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../Requisiti.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01CEAAF9.FA1805A0--

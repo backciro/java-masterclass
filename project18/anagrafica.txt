@@ -1,0 +1,13 @@
+P,divano2pT,200
+P,divano2pP,400
+P,poltronaT,150
+P,poltronaP,250
+P,libreria,300
+P,scaffale,120
+P,mensola,40
+C,Bianchi
+C,Rossi
+C,Verdi
+F,AlfaMobili,divano2pT,poltronaT,libreria
+F,BetaMobili,divano2pP,poltronaP
+F,TuttoMobili,divano2pT,poltronaT,divano2pP,poltronaP,libreria,scaffale,mensola

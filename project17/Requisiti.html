@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="it">
+<head>
+<title>Gestione Voli</title>
+</head>
+<body>
+<h1 style="text-align: center;">Gestione Voli</h1>
+Sviluppare un'applicazione che consenta di gestire un sistema di traffico aereo.
+<br>Utilizzare la classe <code>EsempioMain</code> per la verifica.
+
+Tutte le classi devono essere nel package <code>Aerei</code>.
+
+
+<h2>R1. Aeroporti</h2>
+
+Ogni aeroporto &egrave; caratterizzato da un codice che viene inizializzato tramite
+costruttore della classe <b>Aeroporto</b>.
+<br>
+La classe <b>Aeroporto</b> fornisce il metodo <b>getCode()</b> per ottenere il codice dell'aeroporto.
+<br>
+La classe <b>AeroportiMondo</b></span> mantiene l'elenco degli aeroporti utilizzabili da una specifica 
+compagnia aerea. In particolare, tramite il metodo <b>addAeroporto()</b> &egrave; possibile aggiungere
+un aeroporto all'elenco. Se il codice dell'aeroporto &egrave;
+gi&agrave; presente nell'elenco viene sollevata l'eccezione <b>InvalidCode</b>.
+<br>
+Il metodo <b>removeAeroporto()</b> garantisce che l'aeroporto non sia presente nell'elenco.
+<br>
+Il metodo <b>getAeroporto()</b> restituisce l'oggetto <b>Aeroporto</b> avente il codice fornito 
+(<code>null</code> se inesistente).
+
+
+
+<h2>R2. Compagnie e aerei</h2>
+
+Le compagnie aeree sono rappresentate dalla classe <b>Compagnia</b> il cui costruttore
+riceve come parametri il nome ed un oggetto AeroportiMondo che rappresenta
+la collezione di aeroporti utilizzati dalla compagnia stessa.
+<br>
+I modelli di aereo utilizzati dalle compagnie possono essere definiti tramite il metodo 
+<b>addAereo()</b> che riceve come parametri il codice del modello di aereo ed il numero di posti
+disponibili per quel modello.
+Se il codice dell'aereo fornito &egrave; gi&agrave; presente nell'elenco viene sollevata l'eccezione InvalidCode .
+<br>
+Il metodo <b>getAerei()</b> restituisce una lista dei codici dei modelli di aereo disponibili ordinata alfabeticamente.
+
+
+<h2>R3. Voli</h2>
+
+Le compagnie gestiscono i voli che sono rappresentati dalla classe <b>Volo</b>.
+<p>
+I voli possono essere creati tramite il metodo <b>addVolo()</b> che riceve come parametri 
+il codice del volo, il codice del modello di aereo, i codici degli aeroporti di partenza e arrivo ed
+il giorno della settimana.
+<br>
+Se il codice del volo fornito &egrave; gi&agrave; presente nell'elenco viene sollevata l'eccezione InvalidCode 
+<br>
+&Egrave; possibile cancellare un volo. tramite il metodo <b>cancelVolo()</b> che riceve come parametro il
+codice del volo. Se il codice del volo fornito &egrave; gi&agrave; non &egrave; presente nell'elenco viene sollevata l'eccezione InvalidCode 
+<br>
+Il metodo <b>getVoli()</b> della classe Compagnia restituisce l'elenco dei voli effettuati dalla compagnia
+ordinati per ordine crescente di codice.
+<p>
+La classe <b>Aeroporto</b> fornisce i metodi <b>getArrivi()</b> e <b>getPartenze()</b> per ottenere gli
+elenchi dei voli corrispondenti ordinati per codice di volo crescente.
+<p>
+Il metodo <b>toString()</b> della classe Volo restituisce una stringa ottenuta concatenando le seguenti 
+informazioni separate da un  '<code>;</code>': nome compagnia aerea, codice volo, codice aereo, codice 
+aeroporto di partenza, codice aeroporto di arrivo, giorno della settimana, numero di posti ancora liberi
+( Esempio: "<code>Alitalia;AZ321;L734;TorinoTRN;ParisCDG;Marted&igrave;;10</code>" )
+
+<h2>R4. Prenotazioni</h2>
+
+&Egrave; possibili effettuare una prenotazione per un volo tramite il metodo <b>prenota()</b>  della classe Compagnia che riceve come parametri il numero di posti
+da prenotare ed il codice del volo. Il metodo restituisce <code>true</code> se ci sono posti liberi sufficienti, mentre se il numero di posti 
+supera i posti ancora liberi restituisce <code>false</code> senza modificare la disponibilit&agrave; di posti.
+<br>
+Se il codice del volo fornito non &egrave; presente nell'elenco viene sollevata l'eccezione InvalidCode.
+<p>
+Il numero di posti liberi su un volo &egrave; noto tramite il metodo <b>postiLiberi()</b>, della classe Compagnia, che restituisce il numero di posti liberi su un determinato volo. Se il codice del volo fornito non &egrave; presente nell'elenco viene sollevata l'eccezione InvalidCode.
+
+
+
+<h2>R5. Criticit&agrave;</h2>
+
+La classe Compagnia fornisce i seguenti ulteriori metodi:
+<ul>
+<li> <b>partitoVolo( codiceVolo, ritardo )</b>
+
+            memorizza i minuti di ritardo (&ge; 0) del volo alla partenza;
+            se il codiceVolo fornito non &egrave; presente nell'elenco viene sollevata l'eccezione InvalidCode.
+            N.B. &egrave; possibile correggere un ritardo memorizzato precedentemente, ovvero se invocato pi&ugrave; volte il metodo mantiene solo l'ultimo valore di ritardo.
+
+<li> <b>arrivatoVolo( codiceVolo, ritardo )</b>
+
+            memorizza i minuti di ritardo (&ge; 0) del volo all'arrivo; 
+            se il codiceVolo fornito non &egrave; presente nell'elenco viene sollevata l'eccezione InvalidCode.
+            N.B. &egrave; possibile correggere un ritardo memorizzato precedentemente.
+
+<li> <b>ritardiPartenza()</b>
+
+            restituisce l'elenco ordinato in senso crescente dei codici dei voli che sono partiti con un ritardo maggiore di 15 minuti
+
+<li> <b>ritardiArrivo()</b>
+
+            restituisce l'elenco ordinato in senso crescente dei codici dei voli che sono arrivati con un ritardo maggiore di 15 minuti
+
+<li> <b>voliCritici()</b>
+
+            restituisce l'elenco ordinato in senso crescente dei codici dei voli che sono partiti con un numero di postiLiberi maggiore del 30% dei posti disponibili
+</ul>
+<hr style="width: 100%; height: 2px;"><br>
+
+
+</body>
+</html>
